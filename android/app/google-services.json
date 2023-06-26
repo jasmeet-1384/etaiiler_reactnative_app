@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505219224446",
+    "project_id": "etaiiler-8148d",
+    "storage_bucket": "etaiiler-8148d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505219224446:android:2b51336d38ca2d2745192f",
+        "android_client_info": {
+          "package_name": "com.etaiiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmqKNMLJfVIklhXioD5mcqlPjO4sEZOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
